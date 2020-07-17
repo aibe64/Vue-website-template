@@ -1,4 +1,4 @@
-# kkkkkkkkkkkkkkkkkkkk
+# A Vue JS template
 
 ## Project setup
 ```
